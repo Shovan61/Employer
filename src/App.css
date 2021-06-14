@@ -1,0 +1,9 @@
+.span {
+color: #1e88e5;
+font-size: 14px;
+letter-spacing: 0.5px;
+};
+
+.span:hover {
+  color: #333;
+}
